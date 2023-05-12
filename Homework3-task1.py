@@ -201,7 +201,7 @@ plt.plot(K_sizes_, mean_results[1, :, 2], label='Target FPR=1/(2^10)=0.001')
 plt.xlabel('Size of input dataset')
 plt.ylabel('Observed false positive rate')
 
-plt.legend(loc='best', bbox_to_anchor=(.42, .5))
+plt.legend(loc='best', bbox_to_anchor=(.95, .4))
 
 try:
     os.mkdir('results_task1')
