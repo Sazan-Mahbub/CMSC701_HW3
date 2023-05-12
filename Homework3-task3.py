@@ -6,6 +6,7 @@
 # ##### ref: https://pypi.org/project/bbhash/
 # ##### ref https://github.com/dib-lab/pybbhash
 # ##### ref: https://piazza.com/class/ld0gqwk4xme2vy/post/87
+# ##### ref: https://pypi.org/project/bitarray/
 
 # In[1]:
 
