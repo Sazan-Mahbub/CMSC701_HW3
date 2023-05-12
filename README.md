@@ -29,6 +29,3 @@ Command to run experiments of Task 3:
 > Run the jupyter-notebook named "Homework3-task3.ipynb" in the given order (i.e., run-all option).
 
 The results (plots) will be generated in a new folder named "results_task3/"
-
-
-I am also providing three jupyter-notebooks in this repository that I used for the experiments and 
