@@ -174,8 +174,7 @@ for run_num in range(10):
             print(mph.lookup(0))
             
             ## auxiliary array
-            aux_array = np.ones([len(K)]) * -1
-            aux_array = aux_array.astype(int)
+            aux_array = np.ones([len(K)]).astype(int) * -1
             
 
             ## sanity check, ensuring I have no false negatives
