@@ -175,6 +175,7 @@ for run_num in range(10):
             
             ## auxiliary array
             aux_array = np.ones([len(K)]) * -1
+            aux_array = aux_array.astype(int)
             
 
             ## sanity check, ensuring I have no false negatives
